@@ -1,9 +1,8 @@
 # When McKinsey Comes To Town
 
-[WhenMcKinseyComesToTown](https://www.amazon.com/When-McKinsey-Comes-Town-Consulting/dp/0385546238)
 ![BookCover](https://images4.penguinrandomhouse.com/cover/9780593081877)
 
-Recommended for anyone into business books
+R👍ecommended for anyone into business books
 The pacing can be slow at times but the stories are all interesting
 
 ## Summary
