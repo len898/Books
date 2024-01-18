@@ -2,7 +2,7 @@
 
 ![BookCover](https://images4.penguinrandomhouse.com/cover/9780593081877)
 
-R👍ecommended for anyone into business books
+👍Recommended for anyone into business books
 The pacing can be slow at times but the stories are all interesting
 
 ## Summary
