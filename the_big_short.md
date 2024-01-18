@@ -1,5 +1,9 @@
 # The Big Short
 ![Book Cover](https://cdn2.wwnorton.com/wwnproducts/TRADE/9/2/9780393338829/9780393338829_300.jpeg)
+
+|Started|Finished|Format|
+|Jan 4th 2024| Jan 9th 2024| Paperback|
+
 👍Highly recommended for anyone interested in the Stock Market crash in 2007/2008, the housing crisis, or business books.
 
 ## Summary
