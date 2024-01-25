@@ -1,5 +1,5 @@
 # Trust
-![Book Cover] (https://media.npr.org/assets/img/2022/05/12/9780593420317_custom-f542c888f63d49161d23235a9067a16e02615b2a-s300-c85.webp)
+![Book Cover](https://media.npr.org/assets/img/2022/05/12/9780593420317_custom-f542c888f63d49161d23235a9067a16e02615b2a-s300-c85.webp)
 
 | Started | Finished | Format |
 | ------- | -------- | ------ |
